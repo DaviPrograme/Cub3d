@@ -1,0 +1,13 @@
+NO ./texture/brick.xpm
+SO ./texture/blue.xpm
+WE ./texture/grey.xpm
+EA ./texture/wood.xpm
+
+S ./texture/barrel.xpm
+R 1920 1080
+F 220,100,0
+C 225,30,0
+                  111
+                 10001
+                100N001
+               111111111

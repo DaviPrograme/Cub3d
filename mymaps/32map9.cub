@@ -1,0 +1,19 @@
+NO ./texture/brick32.xpm
+SO ./texture/brick32.xpm
+WE ./texture/brick32.xpm
+EA ./texture/brick32.xpm
+
+S ./texture/chalice32.xpm
+R 1920 1080
+F 220,100,0
+C 225,30,0
+                  111
+                 10001
+                1002001
+               111101111
+              11110001111
+             1111000001111
+            111100000001111
+           11110000E00001111
+    1111111111111111111111111111111
+

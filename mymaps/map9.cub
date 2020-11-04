@@ -1,0 +1,19 @@
+NO ./texture/brick.xpm
+SO ./texture/brick.xpm
+WE ./texture/brick.xpm
+EA ./texture/brick.xpm
+
+S ./texture/chalice.xpm
+R 1920 1080
+F 220,100,0
+C 225,30,0
+                  111
+                 10001
+                1002001
+               111101111
+              11110001111
+             1111000001111
+            111100000001111
+           11110000E00001111
+    1111111111111111111111111111111
+

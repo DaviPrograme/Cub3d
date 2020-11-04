@@ -1,0 +1,12 @@
+NO ./texture/brick32.xpm
+SO ./texture/blue32.xpm
+WE ./texture/grey32.xpm
+EA ./texture/wood32.xpm
+
+S ./texture/barrel32.xpm
+R 1920 1080
+F 220,100,0
+C 225,30,0
+                  111
+                  1N1
+                  111
